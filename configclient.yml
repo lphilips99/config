@@ -1,0 +1,4 @@
+configuration:
+  projectName: config
+server:
+  port: 9888
